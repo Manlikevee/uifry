@@ -25,7 +25,10 @@ body {
     overflow-x: hidden;
     overflow-y: visible;
 }
-
+.maincontent{
+    overflow-x: hidden;
+    overflow-y: visible;
+}
 /* scrollbar */
 
 ::-webkit-scrollbar {
